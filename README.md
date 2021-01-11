@@ -1,5 +1,5 @@
-#This project is generated from  https://github.com/chnirt/nestjs-graphql-best-practice.
-#This is for education purpose only. so please refer to the original project for completness. 
+This project is generated from  https://github.com/chnirt/nestjs-graphql-best-practice.
+This is for education purpose only. so please refer to the original project for completness. 
 
 # Nestjs GraphQL Best Practice
 
